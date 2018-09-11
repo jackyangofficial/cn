@@ -36,14 +36,14 @@ ul{
 	background: rgb(0, 0, 0);
     border: none;
     border-top: 7px double rgb(0, 0, 0);
-    color: lightblue;
+    color: rgb(179, 191, 207);
     overflow: visible;
     text-align: center;
     height: 5px;
 }
 
 .hr:after {
-	color: lightblue;
+	color: rgb(179, 191, 207);
     background: rgb(0, 0, 0);
     content: 'JACK YANG 傑克•楊';
     padding: 0 4px;
@@ -153,13 +153,13 @@ section.banner .container-fluid {
 .navbar-brand h1 {
 	font-size:35px;
 	font-weight:normal;
-	color:lightblue;
+	color:rgb(179, 191, 207);
 	text-transform:uppercase;
 	font-family: "Varela Round",sans-serif;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-    color: lightblue;
+    color: rgb(179, 191, 207);
     background-color:transparent;
 }
 .navbar-inverse .navbar-nav>li>a {
@@ -171,7 +171,7 @@ section.banner .container-fluid {
 }
 
 .navbar-inverse .navbar-nav>li>a:hover {
-    color: lightblue;
+    color: rgb(179, 191, 207);
     font-size: 17px;
     text-transform: uppercase;
     font-weight: normal;
@@ -196,7 +196,7 @@ section.banner .container-fluid {
 	left: 0;
 	width: 100%;
 	height: 3px;
-	background: lightblue;
+	background: rgb(179, 191, 207);
 	content: '';
 	-webkit-transition: -webkit-transform 0.3s;
 	-moz-transition: -moz-transform 0.3s;
@@ -360,7 +360,7 @@ section.banner .container-fluid {
 #slider_loading {
 	width: 0px;
 	height: 3px;
-	background:lightblue;	
+	background:rgb(179, 191, 207);	
 	position: relative;
 	z-index: 1;
 	margin-top: -2px;
@@ -371,7 +371,7 @@ section.banner .container-fluid {
 /*-- connect section --*/
 section.connect {
 	padding:100px 0;
-	background:url(../images/connect.jpg);
+	background:rgb(27, 28, 32);
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:100% 100%;
@@ -387,7 +387,7 @@ section.connect h2.text-center {
 	position:relative;
 	font-family: "Varela Round",sans-serif;
 	text-transform:uppercase;
-	color:lightblue;
+	color:rgb(179, 191, 207);
 }
 section.connect h2.text-center:after {
 	content: '';
@@ -436,8 +436,8 @@ section.connect i.fa {
     text-align: center;
     line-height: 86px;
     font-size: 35px;
-    border: 3px solid lightblue;
-    color: lightblue;
+    border: 3px solid rgb(179, 191, 207);
+    color: rgb(179, 191, 207);
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -457,7 +457,7 @@ section.connect h4 {
 	font-family: "Varela Round",sans-serif;
 	font-size:19px;
     padding: 25px 0 20px;
-	color:lightblue;
+	color:rgb(179, 191, 207);
     text-transform: capitalize;
 }	
 section.connect p.connect-p1 {
@@ -470,7 +470,7 @@ section.connect p.connect-p1 {
 /*-- info section --*/
 section.info {
 	padding:100px 0;
-	background:url(../images/info.jpg);
+	background: rgb(27, 28, 32);
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:100% 100%;
@@ -486,11 +486,11 @@ section.info h3.text-center {
 	position:relative;
 	font-family: "Varela Round",sans-serif;
 	text-transform:uppercase;
-	color:lightblue;
+	color:rgb(179, 191, 207);
 }
 section.info h3.text-center:after {
 	content: '';
-    background-color:lightblue;;	
+    background-color:rgb(179, 191, 207);;	
     width: 14%;
     height:5px;
     display: block;
@@ -529,7 +529,7 @@ section.info p.info-p1 {
 	-ms-transition:all 0.5s ease-in-out;
 }
 .info-agile:hover .hi-icon {
-	background:lightblue;	
+	background:rgb(179, 191, 207);	
     color: #ffffff;
 }
 .info-agile:hover .hi-icon:after {
@@ -541,14 +541,14 @@ section.info p.info-p1 {
 }
 .col-lg-3.col-md-3.info-w3ls span.line1 {
 	width: 1px;
-    background-color:lightblue;	
+    background-color:rgb(179, 191, 207);	
     height: 105%;
     position: absolute;
     right: 0px;
     top: -16px;
 }
 section.info hr {
-	border-top:1px solid lightblue;
+	border-top:1px solid rgb(179, 191, 207);
 }
 .hi-icon a {
 	display:block; 
@@ -574,7 +574,7 @@ section.info hr {
 	text-align: center;
 	position: relative;
 	z-index: 1;
-	color:rgb(72, 176, 211);	
+	color:rgb(98, 124, 151);	
 }
 .hi-icon:after {
 	pointer-events: none;
@@ -608,7 +608,7 @@ section.info hr {
 	top: -7px;
 	left: -7px;
 	padding: 7px;
-	box-shadow: 0 0 0 4px lightblue;;	
+	box-shadow: 0 0 0 4px rgb(179, 191, 207);;	
 	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
 	-webkit-transform: scale(.8);
 	-moz-transition: -moz-transform 0.2s, opacity 0.2s;
@@ -619,7 +619,7 @@ section.info hr {
 	opacity: 0;
 }
 .no-touch .hi-icon-effect-1b .hi-icon:hover {
-	background: lightblue;
+	background: rgb(179, 191, 207);
     color: #ffffff;
 }
 .hi-icon-effect-1b .hi-icon:after {
@@ -641,7 +641,7 @@ section.info hr {
 /*-- work section --*/
 section.work {
 	padding:100px 0;
-	background:url(../images/work.jpg);
+	background:rgb(27, 28, 32);
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:100% 100%;
@@ -657,11 +657,11 @@ section.work h3.text-center {
 	position:relative;
 	font-family: "Varela Round",sans-serif;
 	text-transform:uppercase;
-	color:lightblue;
+	color:rgb(179, 191, 207);
 }
 section.work p.text-center:before {
 	content: '';
-    background-color: lightblue;
+    background-color: rgb(179, 191, 207);
     width: 3%;
     height: 3px;
     display: block;
@@ -671,7 +671,7 @@ section.work p.text-center:before {
 }
 section.work p.text-center:after {
 	content: '';
-    background-color: lightblue;;
+    background-color: rgb(179, 191, 207);;
     width: 3%;
     height: 3px;
     display: block;
@@ -792,7 +792,7 @@ section.work p.text-center {
 	background: rgba(255,255,255,0.4);
 }
 .tabs-style-iconbox nav ul li a {
-	background:lightblue;
+	background:rgb(179, 191, 207);
 	overflow: visible;
 	padding:15px 0 16px;
 	line-height: 1;
@@ -801,8 +801,8 @@ section.work p.text-center {
 	color:rgba(0, 0, 0, 0.596);
 }
 .tabs-style-iconbox nav ul li a:hover {
-	background:#0dc6d3;
-	box-shadow: -1px 0 0 rgb(20, 150, 224);;
+	background:rgb(98, 124, 151);
+	box-shadow: -1px 0 0 rgb(98, 124, 151);
 	color:#fff;
 }
 .tabs-style-iconbox nav ul li a:hover::after {
@@ -827,8 +827,8 @@ section.work p.text-center {
 	z-index: 100;
 }
 .tabs-style-iconbox nav ul li.tab-current a {
-	background:rgb(111, 208, 240);
-	box-shadow: -1px 0 0 rgb(111, 208, 240);
+	background:rgb(114, 146, 180);
+	box-shadow: -1px 0 0 rgb(114, 146, 180);
 	color:#fff;
 }
 .tabs-style-iconbox nav ul li.tab-current a::after {
@@ -840,7 +840,7 @@ section.work p.text-center {
 	height: 0;
 	border: solid transparent;
 	border-width: 10px;
-	border-top-color:rgb(111, 208, 240);
+	border-top-color:rgb(114, 146, 180);
 	content: '';
 	pointer-events: none;
 } 
@@ -1049,7 +1049,7 @@ color: #fff !important;
 /*-- footer section --*/
 section.footer {
 	padding:100px 0;
-	background:url(../images/contact.jpg);
+	background:rgb(27, 28, 32);
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:100% 100%;
@@ -1070,7 +1070,7 @@ section.footer h3:after {
 	content: '';
     height: 3px;
     width: 65px;
-    background-color: lightblue;
+    background-color: rgb(101, 102, 102);
     display: block;
     position: absolute;
     bottom: 22px;
@@ -1091,7 +1091,7 @@ ul.social-icons3 li {
 	margin-right:25px;
 }
 ul.social-icons3 li a i.fa {
-	color:lightblue;
+	color:rgb(179, 191, 207);
 	font-size:25px;
 }
 ul.social-icons3 li a i.fa:hover {
@@ -1121,7 +1121,7 @@ section.footer .contact-w3ls .row {
 	text-align:center;
 }
 section.footer .contact-w3ls i.fa {
-    color:lightblue;
+    color:rgb(179, 191, 207);
     vertical-align: middle;
     text-align: center;
 	margin-left:-65px;
@@ -1182,7 +1182,7 @@ p.copyright a {
 	color:#fff;
 }
 p.copyright a:hover {
-	color:lightblue;
+	color:rgb(179, 191, 207);
 } 
 /*-- /footer section --*/
 /*-- back to top --*/
