@@ -33,7 +33,7 @@ ul{
 }
 
 .hr {
-	background: rgb(0, 0, 0);
+	background: rgb(71, 78, 88);
     border: none;
     border-top: 7px double rgb(0, 0, 0);
     color: rgb(179, 191, 207);
@@ -1095,7 +1095,7 @@ ul.social-icons3 li a i.fa {
 	font-size:25px;
 }
 ul.social-icons3 li a i.fa:hover {
-	color:rgb(32, 145, 221);
+	color:rgb(91, 116, 133);
 }
 p.footer-p2 {
     color: #fff;
