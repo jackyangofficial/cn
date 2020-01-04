@@ -951,9 +951,9 @@ section.work .b-wrapper p{
     padding: 0;
 }
 section.work img {
-    width: 100%;
+    width: 280px;
     display: block;
-    height:auto;
+    height: 280px;
 }
 /*-- /work section --*/
 /*-- map section --*/
