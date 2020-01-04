@@ -952,7 +952,7 @@ section.work .b-wrapper p{
 }
 section.work img {
     width: 280px;
-    display: block;
+    display: inline-block;
     height: 280px;
 }
 /*-- /work section --*/
